@@ -2,11 +2,18 @@
 1. [A Sequence-to-Sequence&Set Model for Text-to-Table Generation](http://arxiv.org/pdf/2306.00137v1)
 2. [LLM driven Text-to-Table Generation through Sub-Tasks Guidance and Iterative Refinement](http://arxiv.org/pdf/2508.08653v1)
 3. [Map&Make - Schema Guided Text to Table Generation](http://arxiv.org/pdf/2505.23174v1)
-4. [TKGT - Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs](https://aclanthology.org/2024.emnlp-main.901.pdf)
-5. [TabularGSM - Understanding the Limitations of LLMs in Tabular Math Reasoning](http://arxiv.org/pdf/2505.19563v2)
-6. [Tabularis Revilio - Converting Text to Tables](https://dl.acm.org/doi/pdf/10.1145/3627673.3680000)
-7. [Text-Tuple-Table - Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction](http://arxiv.org/pdf/2404.14215v2)
-8. [Text-to-Table - A New Way of Information Extraction](http://arxiv.org/pdf/2109.02707v2)
+4. [OPENTE - OPEN-STRUCTURE TABLE EXTRACTION FROM TEXT](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10448427&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzEwNDQ4NDI3)
+5. [TEN - Table Explicitization, Neurosymbolically](http://arxiv.org/pdf/2508.09324v1)
+6. [TKGT - Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs](https://aclanthology.org/2024.emnlp-main.901.pdf)
+7. [TabularGSM - Understanding the Limitations of LLMs in Tabular Math Reasoning](http://arxiv.org/pdf/2505.19563v2)
+8. [Tabularis Revilio - Converting Text to Tables](https://dl.acm.org/doi/pdf/10.1145/3627673.3680000)
+9. [Text-Tuple-Table - Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction](http://arxiv.org/pdf/2404.14215v2)
+10. [Text-to-Table - A New Way of Information Extraction](http://arxiv.org/pdf/2109.02707v2)
+
+## Specialized Forms of Table Generation
+### Scientific Research Table Generation
+1. [ArxivDIGESTables - Synthesizing Scientific Literature into Tables using Language Models](http://arxiv.org/pdf/2410.22360v1)
+2. [Survey Table Generation from Academic Articles](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10973486&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzEwOTczNDg2)
 
 ## Text-to-Table Generation Benchmark
 1. [Beyond Isolated Dots - Benchmarking Structured Table Construction as Deep Knowledge Extraction](http://arxiv.org/pdf/2507.16271v1)
